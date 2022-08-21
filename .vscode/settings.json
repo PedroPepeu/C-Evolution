@@ -2,7 +2,8 @@
   "files.associations": {
     "FirstLesson.C": "cpp",
     "Pag5.C": "cpp",
-    "especialCOdes.C": "cpp"
+    "especialCOdes.C": "cpp",
+    "intes.C": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "C:/MinGW/bin/gcc.exe",
   "C_Cpp_Runner.cppCompilerPath": "g++",
